@@ -1,0 +1,1 @@
+O projeto é um programa em Python que lê números de um arquivo, armazena apenas os únicos (sem repetição) e gera um arquivo de saída indicando se cada número é novo ou repetido. No final, exibe a lista de números únicos.
